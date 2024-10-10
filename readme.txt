@@ -1,3 +1,3 @@
 My project
 ----------
-Different types of animal and their traits.
+Different types of animal and their traits....
